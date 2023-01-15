@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Ola PEssoal</h1>
+<h1>Ola Pessoal</h1>
 <!--
 **gabrielpmaia11/gabrielpmaia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
